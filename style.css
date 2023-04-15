@@ -1,0 +1,27 @@
+
+body{
+    margin-left: 10%;
+    font-style: normal; width: 80%;
+    font-size: 30px;
+}
+figcaption {
+	font-size: 15px;
+}
+
+
+.BRASIL {
+    font-size: 10PX;
+    font-style: oblique;
+  }
+
+.arte {
+   background-color: #ff5e00; width: 90%; height: 40px;
+   size: 0ch;
+   font-size: xx-large; 
+   color: aliceblue;
+   }
+
+   h4 {
+    font-size: 80PX;
+}
+
